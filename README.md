@@ -5,3 +5,5 @@ Liz is an AI program I wrote using speechsynthesis
 
 https://codepen.io/jakeE193/pen/vzxJZp
 
+<img src = 'https://s3-us-west-2.amazonaws.com/i.cdpn.io/2325511.vzxJZp.b60a8583-702f-401c-8c39-402103c0f1a5.png'>
+
